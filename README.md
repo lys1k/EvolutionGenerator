@@ -73,7 +73,7 @@ Oczywiście na początku symulacji na środku świata umieszczamy jedno lub kilk
 Liczba zwierząt na początku jest parametrem symulacji.
 
 
-# Widok symulacji
+## Widok symulacji
 
  ![img](https://user-images.githubusercontent.com/100601969/156036129-65df1acf-c168-488a-82ef-d554198b2a2c.png)
 
